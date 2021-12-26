@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jade-qi-guo.github.io/sitemap.xml
