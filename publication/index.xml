@@ -5,12 +5,28 @@
     <link>https://jade-qi-guo.github.io/publication/</link>
       <atom:link href="https://jade-qi-guo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jade-qi-guo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jade-qi-guo.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Predicting Spatial Visualization Problems’ Difficulty Level from Eye-Tracking Data</title>
+      <link>https://jade-qi-guo.github.io/publication/li-2020-predicting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jade-qi-guo.github.io/publication/li-2020-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Experiments of 5G Technology Powered Industrial Internet</title>
+      <link>https://jade-qi-guo.github.io/publication/xu-2019-application/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jade-qi-guo.github.io/publication/xu-2019-application/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
